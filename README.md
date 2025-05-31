@@ -4,8 +4,6 @@ I'm Krishang, a passionate developer dedicated to creating innovative and effici
 
 Feel free to explore my projects and reach out if you have any questions or collaboration ideas. 
 
--------
-
 **Connect with me:**
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krishangsharma118/)
