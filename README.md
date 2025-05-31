@@ -17,4 +17,3 @@ Feel free to explore my projects and don't hesitate to reach out if you have any
 **Connect with me:**
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krishangsharma118/)
-
