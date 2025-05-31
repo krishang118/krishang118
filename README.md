@@ -6,4 +6,4 @@ Feel free to explore my projects and reach out if you have any questions or coll
 
 **Connect with me:**
 
-[![LinkedIn Profile](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/krishangsharma118/)
+[![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krishangsharma118/)
