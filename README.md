@@ -1,6 +1,6 @@
 # Hey, Welcome! 
 
-I'm Krishang, a curious and passionate developer dedicated to creating innovative and efficient solutions. My repositories showcase a blend of full-stack applications, AI/machine learning models, and algorithmic projects.
+I'm Krishang, a curious and passionate developer dedicated to creating innovative and efficient solutions. My repositories showcase a blend of full-stack applications, AI/machine learning projects, and algorithmic work.
 
 Feel free to explore my projects and don't hesitate to reach out if you have any questions or collaboration ideas. 
 
