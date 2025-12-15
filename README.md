@@ -1,9 +1,7 @@
-# Hey, Welcome!
+## Hi, I'm Krishang!
 
-I'm Krishang, a passionate developer dedicated to creating innovative and efficient solutions. My repositories feature a blend of AI/ML, data-driven projects, full-stack apps, and algorithmic work.
+I build AI/ML systems, data-driven solutions, and full-stack apps, focused on real-world use.
 
-Feel free to explore my repositories and don't hesitate to reach out if you have any questions or collaboration ideas.
+Feel free to explore my repositories or reach out for collaboration.
 
-**Connect with me:**
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krishangsharma118/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krishangsharma118/)
