@@ -1,4 +1,4 @@
-# Hi, I'm Krishang!
+## Hi, I'm Krishang!
 
 I build AI/ML systems, data-driven solutions, and full-stack apps, focused on real-world use.
 
